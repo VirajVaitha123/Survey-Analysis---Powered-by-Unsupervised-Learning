@@ -1,6 +1,6 @@
 # Survey Analysis - Powered by Unsupervised Learning
 
-![Test](https://github.com/VirajVaitha123/Survey-Analysis---Powered-by-Unsupervised-Learning/blob/master/Images/test.png)
+![Test](https://github.com/VirajVaitha123/Survey-Analysis---Powered-by-Unsupervised-Learning/blob/master/Images/Test.png)
 
 
 Unsupervised Learning
