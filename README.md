@@ -48,7 +48,7 @@ An example dashboard I have created can be seen below:
 <br>
 <br>
 
-##### Contents of the ntebook
+##### Contents of the notebook
 1. Import relevant packages
 2. Creating the raw data (dataframe)
 3. Unsupervised Learning (KMeans) - Elbow Method to determine K
