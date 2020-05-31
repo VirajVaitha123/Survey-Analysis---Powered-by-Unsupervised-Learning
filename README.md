@@ -47,7 +47,8 @@ Instead, we would "plot a graph" and write code to approximate the correct numbe
 An example dashboard I have created can be seen below:
 <br>
 <br>
-#### Contents of the ntebook
+
+##### Contents of the ntebook
 1. Import relevant packages
 2. Creating the raw data (dataframe)
 3. Unsupervised Learning (KMeans) - Elbow Method to determine K
