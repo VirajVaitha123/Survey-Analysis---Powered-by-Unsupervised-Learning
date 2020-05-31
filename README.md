@@ -9,7 +9,8 @@
 Analysing survey results can be challenging. It's common for customers to experience similar experiences leading to groups of individuals selecting the same survey responses. However, they won't all select the same as people are interested in different things. For example, some go to a restaurant for atmosphere whilst others go primarily for the food. Clustering can help us gain a general concensus of our customers.
 
 Clustering is an unsupervised machine learning method. Unsupervised techniques don't require labelled data (it doesn't need us humans to teach the model directly). This notebook will focus on clustering customer survey responses from an airline. This analysis could be used on any surveys that use a numerical scale.
-
+<br>
+<br>
 #### Methodology
 
 Create a real life scenario to make the randomly generated data more meaningful and easier to follow.
@@ -41,14 +42,11 @@ Instead, we would "plot a graph" and write code to approximate the correct numbe
 ##### 4. Predict and attach the clusters for each persons survey
 
 ##### 5. Create an Interactive Dashboard
-
-
-
+<br>
+<br>
 An example dashboard I have created can be seen below:
-
-
-
-
+<br>
+<br>
 #### Contents of the ntebook
 1. Import relevant packages
 2. Creating the raw data (dataframe)
