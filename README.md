@@ -47,7 +47,7 @@ Instead, we would "plot a graph" and write code to approximate the correct numbe
 An example dashboard I have created can be seen below:
 
 
-![dashboard](https://github.com/VirajVaitha123/Survey-Analysis---Powered-by-Unsupervised-Learning/blob/master/Images/dashboard.png)
+![dashboard](https://github.com/VirajVaitha123/Survey-Analysis---Powered-by-Unsupervised-Learning/blob/master/Images/dashboard.PNG)
 <br>
 <br>
 
