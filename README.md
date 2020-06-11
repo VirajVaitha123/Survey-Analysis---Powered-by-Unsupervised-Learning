@@ -32,7 +32,7 @@ Lastly, you must include the fundamental question:
 "I would return to "ABC" in the future"
 
 ##### 2. Import the data 
-In this case I randomly generated data as this I wanted to test if this analysis would gain insights before carrying out an actual survey on a large number of people.
+I randomly generated data as I wanted to test if this analysis would gain insights before carrying out an actual survey on a large number of people.
 
 ##### 3. Apply the Elbow Technique to determine the appropriate number of clusters 
 To make this step dynamic in the future, we should write some code to automatically select the suitable number of clusters.
