@@ -61,3 +61,10 @@ An example dashboard I have created can be seen below:
 9. Export to PowerBI and Visualise results
 11. Discussion
 12. Conclusion
+
+
+TO DO
+- Data is randomly generated and not representative of a real sittuation, should adjust this
+- Question states Where there any delays?, this is the one questions where a postive score reflects negatively. Each Question should be on a 0 = negative 5= positive scale.
+- Plotly box plot would look more attractive
+- Discussion and conclusion, there is no comments on my analysis and readers would not be able to see the outcomes of the algorithm. It's important to add this!
