@@ -11,6 +11,7 @@ Analysing survey results can be challenging. It's common for customers to experi
 Clustering is an unsupervised machine learning method. Unsupervised techniques don't require labelled data (it doesn't need us humans to teach the model directly). This notebook will focus on clustering customer survey responses from an airline. This analysis could be used on any surveys that use a numerical scale.
 <br>
 <br>
+
 #### Methodology
 
 Create a real life scenario to make the randomly generated data more meaningful and easier to follow.
@@ -61,6 +62,27 @@ An example dashboard I have created can be seen below:
 9. Export to PowerBI and Visualise results
 11. Discussion
 12. Conclusion
+
+#### Getting Started
+
+<u> Step 1: Download required files </u> <br>
+
+```
+ git clone https://github.com/VirajVaitha123/Survey-Analysis---Powered-by-Unsupervised-Learning.git
+```
+
+
+<u> Step 2: Create the virtual environment <br>
+- run the following command relative to your directory to create the environment with the relevant dependencies <br>
+
+```
+conda env create -f DataScience.yml 
+```
+<u> Step 3: Access notebook in Jupyter Notebook <br>
+```
+Jupyter Notebook
+```
+- Open and edit the notebook <br>
 
 
 TO DO
