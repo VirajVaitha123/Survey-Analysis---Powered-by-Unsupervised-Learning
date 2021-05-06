@@ -84,6 +84,11 @@ Jupyter Notebook
 ```
 - Open and edit the notebook <br>
 
+#### Alternatively, view the notebote if not rendering in github through:
+https://nbviewer.jupyter.org/
+
+Copy and paste the notebook link below to nbviewer website:
+https://github.com/VirajVaitha123/Survey-Analysis---Powered-by-Unsupervised-Learning/blob/master/Customer%20Feedback%20Analytics%20-%20Unsupervised%20Learning.ipynb
 
 TO DO
 - Data is randomly generated and not representative of a real sittuation, should adjust
