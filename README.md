@@ -65,6 +65,11 @@ An example dashboard I have created can be seen below:
 
 #### Getting Started
 
+To view the notebook in your browser follow the link below:
+https://github.com/VirajVaitha123/Survey-Analysis---Powered-by-Unsupervised-Learning/blob/master/Customer%20Feedback%20Analytics%20-%20Unsupervised%20Learning.ipynb
+
+Alternatively, to interact with the code please follow the steps below:
+
 <u> Step 1: Download required files </u> <br>
 
 ```
